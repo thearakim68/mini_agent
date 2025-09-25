@@ -71,8 +71,7 @@ It follows the core cycle of agentic thinking:
 
 
 ## 🙆 About Me
-*Kim Theara
-UX/UI Designer / Generative AI Enthusiast / AI Researcher 
+Kim Theara (UX/UI Designer / Generative AI Enthusiast / AI Researcher)
 
 - 🌐[theara-me.webflow.io](https://theara-me.webflow.io/)
 - 🔗[LinkedIn](https://www.linkedin.com/in/kimtheara-productdesign-ai-expert/)
