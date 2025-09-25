@@ -50,17 +50,17 @@ It follows the core cycle of agentic thinking:
 
 ## ✏️ Sample Output
 
-1. Math Task
-[Agent received task]: do math  
-[Agent output]: The result of 15 * 4 is 60.
+1. Math Task:
+- [Agent received task]: do math  
+- [Agent output]: The result of 15 * 4 is 60.
 
-2. Text Summary Task
-[Agent received task]: summarize text  
-[Agent output]: The text discusses how AI is rapidly transforming the digital world by improving automation, personalization, and decision-making.
+2. Text Summary Task:
+- [Agent received task]: summarize text  
+- [Agent output]: The text discusses how AI is rapidly transforming the digital world by improving automation, personalization, and decision-making.
 
-3. Weather Task
-[Agent received task]: search weather  
-[Agent output]: I'm an AI model and don't have real-time weather data access. If you'd like, I can show how you'd use an API like OpenWeather to do that.
+3. Weather Task:
+- [Agent received task]: search weather  
+- [Agent output]: I'm an AI model and don't have real-time weather data access. If you'd like, I can show how you'd use an API like OpenWeather to do that.
 
 
 ## ⚙️ Tech Stack
@@ -71,9 +71,9 @@ It follows the core cycle of agentic thinking:
 
 
 ## 🙆 About Me
-#Kim Theara
+*Kim Theara
 UX/UI Designer / Generative AI Enthusiast / AI Researcher 
 
-🌐 [theara-me.webflow.io](https://theara-me.webflow.io/)
-[🔗 LinkedIn](https://www.linkedin.com/in/kimtheara-productdesign-ai-expert/)
-[🧑‍💻 Medium](https://medium.com/@thearakim68)
+- 🌐[theara-me.webflow.io](https://theara-me.webflow.io/)
+- 🔗[LinkedIn](https://www.linkedin.com/in/kimtheara-productdesign-ai-expert/)
+- 🧑‍💻[Medium](https://medium.com/@thearakim68)
